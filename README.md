@@ -1,4 +1,5 @@
-Monte Carlo Sampling Library for Probabilistic Inference
+ Monte Carlo Sampling Library for Probabilistic Inference
+                                                             
 Overview
 
 This project implements a mini-library of advanced MCMC algorithms for sampling from high-dimensional probability distributions, with a focus on Bayesian inference in machine learning.
